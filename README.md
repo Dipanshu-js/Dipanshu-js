@@ -161,8 +161,6 @@ Email: dipanshusin28@gmail.com
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/Dipanshu-js/Dipanshu-js/output/github-snake-dark.svg)
-
 ![Pacman](https://raw.githubusercontent.com/Dipanshu-js/Dipanshu-js/output/pacman-contribution-graph.svg)
 
 </div>
