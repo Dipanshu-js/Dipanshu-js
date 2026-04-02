@@ -14,6 +14,12 @@
 
 <!-- ══════════════ BADGES ══════════════ -->
 
+<p align="center">
+  <a href="https://dipanshusingh.vercel.app"><img alt="Live" src="https://img.shields.io/badge/live-dipanshusingh.vercel.app-915EFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Dipanshu-js"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Dipanshu--js-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:dipanshusin28@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-dipanshusin28-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Dipanshu-js&label=Profile%20Views&color=00e5a0&style=flat-square)](https://github.com/Dipanshu-js)
 [![GitHub followers](https://img.shields.io/github/followers/Dipanshu-js?label=Followers&style=flat-square&color=00e5a0&labelColor=0d1117)](https://github.com/Dipanshu-js?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Dipanshu-js?label=Total%20Stars&style=flat-square&color=00e5a0&labelColor=0d1117)](https://github.com/Dipanshu-js)
