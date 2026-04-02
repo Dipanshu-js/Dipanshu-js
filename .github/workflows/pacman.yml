@@ -1,0 +1,32 @@
+name: 🎮 Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:           # Manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman SVG
+        uses: anvithks/github-contribution-graph-action@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-filename: pacman-contribution-graph.svg
+          game: pacman
+
+      - name: Commit and push to output branch
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: output
+          commit_message: "chore: update pacman contribution graph"
+          create_branch: true

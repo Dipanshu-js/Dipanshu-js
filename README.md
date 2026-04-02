@@ -1,89 +1,207 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00e5a0&height=120&section=header&text=Dipanshu%20Singh&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20%2F%20AI%20Engineer&descSize=14&descAlignY=68&descFontColor=8b949e" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=00E5A0&center=true&vCenter=true&width=500&lines=Freelance+React+%2F+AI+Engineer;Building+LLM-powered+apps+for+global+clients;MQTT+%C2%B7+WebSockets+%C2%B7+AWS+IoT+Core+at+scale;OpenAI+%C2%B7+LangChain+%C2%B7+RAG+pipelines)](https://git.io/typing-svg)
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003d33,100:00e5a0&height=220&section=header&text=Dipanshu%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%E2%9A%A1%20AI%20Engineer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20Builder&descSize=17&descAlignY=62&descColor=8b949e&animation=fadeIn)](https://github.com/Dipanshu-js)
+
+<!-- ═══════════════════ ANIMATED BANNER GIF ═══════════════════ -->
+
+[![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Dipanshu-js)
+
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Dipanshu+Singh!;Full+Stack+%2F+AI+Engineer+%F0%9F%9A%80;React+%C2%B7+Next.js+15+%C2%B7+TypeScript;LLM+apps+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+OpenAI;AWS+%C2%B7+IoT+%C2%B7+Fullstack+Architecture;Open+to+Freelance+%26+Senior+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
+
+<!-- ═══════════════════ BADGES ═══════════════════ -->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Dipanshu-js&label=Profile%20Views&color=00e5a0&style=flat-square)](https://github.com/Dipanshu-js)
+[![GitHub followers](https://img.shields.io/github/followers/Dipanshu-js?label=Followers&style=flat-square&color=00e5a0&labelColor=0d1117)](https://github.com/Dipanshu-js?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Dipanshu-js?label=Total%20Stars&style=flat-square&color=00e5a0&labelColor=0d1117)](https://github.com/Dipanshu-js)
 
 </div>
 
 ---
 
-```sh
-dipanshu@dev:~$ whoami
-  Dipanshu Singh — Full Stack / AI Engineer, Noida IN
-  Status: Freelancing — LLM-powered apps, end-to-end delivery
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-dipanshu@dev:~$ cat stack.json
-  {
-    "frontend" : ["React", "Next.js 15", "TypeScript", "Redux Toolkit"],
-    "backend"  : ["Node.js", "Express", "MongoDB", "Redis", "MQTT"],
-    "cloud"    : ["AWS Lambda", "IoT Core", "Cognito", "S3", "Vercel"],
-    "ai"       : ["OpenAI API", "LangChain", "RAG", "Pinecone", "ChromaDB"]
-  }
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-dipanshu@dev:~$ git log --oneline --career
-  2025–now   Freelance AI Engineer        React + LLM · architecture → Vercel
-  2022–2024  Sukriti Social Pvt. Ltd.     IoT dashboard · 600→18 re-renders/min
-  2021       Edneed Technology            MERN exam platform · 500+ concurrent
-  2020–2021  Speako24 (Classhour)         React lib · TypeScript · Firebase Auth
+### `dipanshu@dev:~$ whoami`
 
-dipanshu@dev:~$ uptime
-  5+ years in production — currently open to freelance & senior roles
+```yaml
+Name: Dipanshu Singh
+Role: Full Stack + AI Engineer
+Location: Noida, India 🇮🇳
+Status: Freelancing — open to senior roles
+Focus: LLM apps · RAG pipelines · end-to-end delivery
+Email: dipanshusin28@gmail.com
 ```
 
+### `dipanshu@dev:~$ cat stack.json`
+
+```json
+{
+  "frontend": ["React", "Next.js 15", "TypeScript", "Redux Toolkit"],
+  "backend": ["Node.js", "Express", "MongoDB", "Redis", "MQTT"],
+  "cloud": ["AWS Lambda", "IoT Core", "Cognito", "S3", "Vercel"],
+  "ai": ["OpenAI API", "LangChain", "RAG", "Pinecone", "ChromaDB"]
+}
+```
+
+### `dipanshu@dev:~$ git log --career --oneline`
+
+```bash
+2025–now   Freelance AI Engineer
+           └─ React + LLM · architecture → Vercel
+
+2022–2024  Sukriti Social Pvt. Ltd.
+           └─ IoT dashboard · 600 → 18 re-renders/min 📉
+
+2021       Edneed Technology
+           └─ MERN exam platform · 500+ concurrent users
+
+2020–2021  Speako24 (Classhour)
+           └─ React lib · TypeScript · Firebase Auth
+```
+
+<br clear="right"/>
+
 ---
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+## 🛠 Tech Stack
+
+### ⚡ Languages & Frameworks
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/>
+
+</div>
+
+### 🔧 Backend & Databases
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+
+</div>
+
+### ☁️ Cloud, DevOps & Tools
+
+<div align="center">
+
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+<img src="https://vitejs.dev/logo.svg" alt="Vite" width="45" height="45"/>
+
+</div>
+
+### 🤖 AI / ML Stack
+
+<div align="center">
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![RAG](https://img.shields.io/badge/RAG%20Pipelines-00897b?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![Groq](https://img.shields.io/badge/Groq%20LLaMA-F55036?style=for-the-badge&logo=meta&logoColor=white)](#)
 
 </div>
 
 ---
 
-**featured work**
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
-[`awesome-github-profiles`](https://github.com/Dipanshu-js/awesome-github-profiles) — curated GitHub profile README templates, 5 styles, copy-paste ready  
-[`mqtt-devtools`](https://github.com/Dipanshu-js/mqtt-devtools) — browser-based MQTT debugger, topic tree + message timeline  
-[`reviewbot-cli`](https://github.com/Dipanshu-js/reviewbot-cli) — CLI that streams AI code review before you open a PR
-
----
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Dipanshu-js&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-js&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=8b949e&langs_count=6" />
+| 🏷️ Project                                                                               | 📝 Description                                                                                           | 🔨 Stack                       |
+| :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :----------------------------- |
+| [**ViralCut** 🎬](https://github.com/Dipanshu-js/ViralCut)                               | Turn any YouTube video into viral Shorts — auto-captions, hook generator, voiceover & 9:16 canvas export | `Next.js 15` `Groq LLaMA` `AI` |
+| [**reviewbot-cli** 🤖](https://github.com/Dipanshu-js/reviewbot-cli)                     | CLI that streams AI code review before you even open a PR                                                | `Node.js` `OpenAI` `CLI`       |
+| [**awesome-github-profiles** ⭐](https://github.com/Dipanshu-js/awesome-github-profiles) | Curated GitHub profile README templates — 5 styles, copy-paste ready                                     | `Markdown` `GitHub`            |
 
 </div>
 
 ---
 
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+
+## 📊 GitHub Stats
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dipanshu-js/Dipanshu-js/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dipanshu-js/Dipanshu-js/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dipanshu-js/Dipanshu-js/output/github-snake-dark.svg" />
-</picture>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipanshu-js&theme=dark&hide_border=true&background=0d1117&ring=00e5a0&fire=00897b&currStreakLabel=00e5a0&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff)
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dipanshu-js&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=8b949e&ring_color=00e5a0" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu-js&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=8b949e&langs_count=6" alt="Top Languages"/>
+
 </div>
 
 ---
 
+<!-- ═══════════════════ CONTRIBUTION ANIMATIONS ═══════════════════ -->
+
+## 🐍 Contribution Activity
+
 <div align="center">
-<sub>
-<a href="mailto:dipanshusin28@gmail.com">dipanshusin28@gmail.com</a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/dipanshu-singh-4b3b0b19b">linkedin</a> &nbsp;·&nbsp;
-<a href="https://github.com/Dipanshu-js">github</a>
-</sub>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Dipanshu-js/Dipanshu-js/output/github-snake-dark.svg)
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Dipanshu-js/Dipanshu-js/output/pacman-contribution-graph.svg)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:0d1117&height=80&section=footer" />
+---
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-singh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshusin28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipanshu-js)
+[![Twitter / X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00e5a0?style=for-the-badge&logo=vercel&logoColor=black)](#)
+
+</div>
+
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<div align="center">
+
+> _"Ship fast, learn faster. Build things people actually use."_
+
+⭐ **If you like my work, feel free to star this repo and follow me!** 🌟
+
+[![Bottom Animation](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)](https://github.com/Dipanshu-js)
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,50:00897b,100:0d1117&height=120&section=footer)](https://github.com/Dipanshu-js)
+
+</div>
