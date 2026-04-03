@@ -53,23 +53,6 @@ Email: dipanshusin28@gmail.com
   "ai": ["OpenAI API", "LangChain", "RAG", "Pinecone", "ChromaDB"]
 }
 ```
-
-### `dipanshu@dev:~$ git log --career --oneline`
-
-```bash
-2025–now   Freelance AI Engineer
-           └─ React + LLM · architecture → Vercel
-
-2022–2024  Sukriti Social Pvt. Ltd.
-           └─ IoT dashboard · 600 → 18 re-renders/min 📉
-
-2021-2022  Edneed Technology
-           └─ MERN exam platform · 500+ concurrent users
-
-2020–2021  Speako24 (Classhour)
-           └─ React lib · TypeScript · Firebase Auth
-```
-
 <br clear="right"/>
 
 ---
