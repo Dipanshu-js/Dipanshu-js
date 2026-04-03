@@ -166,7 +166,7 @@ Email: dipanshusin28@gmail.com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshusin28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipanshu-js)
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00e5a0?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00e5a0?style=for-the-badge&logo=vercel&logoColor=black)](https://dipanshusingh.vercel.app)
 
 </div>
 
