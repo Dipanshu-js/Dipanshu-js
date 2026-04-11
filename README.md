@@ -32,17 +32,6 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### `dipanshu@dev:~$ whoami`
-
-```yaml
-Name: Dipanshu Singh
-Role: Full Stack + AI Engineer
-Location: Noida, India 🇮🇳
-Status: Freelancing — open to senior roles
-Focus: LLM apps · RAG pipelines · end-to-end delivery
-Email: dipanshusin28@gmail.com
-```
-
 ### `dipanshu@dev:~$ cat stack.json`
 
 ```json
